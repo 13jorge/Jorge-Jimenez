@@ -10,7 +10,7 @@ h4{
 }
 
 .ghost{
-  background-image: url(/images/WingGhost.png);
+  background-image: url(../images/WingGhost.png);
   background-size: cover;
   width: 400px;
   height: 400px;
@@ -18,11 +18,11 @@ h4{
   margin-bottom: 5%;
 }
 .ghost:hover{
-background-image: url(/images/CreepyWingGhost.png);
+background-image: url(../images/CreepyWingGhost.png);
 }
 
 .float{
-  background-image: url(/images/FloatingGhost.png);
+  background-image: url(../images/FloatingGhost.png);
   background-size: cover;
   width: 400px;
   height: 400px;
@@ -30,11 +30,11 @@ background-image: url(/images/CreepyWingGhost.png);
   margin-bottom: 5%;
 }
 .float:hover{
-background-image: url(/images/BlackFloatingGhost.png);
+background-image: url(../images/BlackFloatingGhost.png);
 }
 
 .hallow{
-  background-image: url(/images/HallowGhost.png);
+  background-image: url(../images/HallowGhost.png);
   background-size: cover;
   width: 400px;
   height: 400px;
@@ -43,5 +43,5 @@ background-image: url(/images/BlackFloatingGhost.png);
 
 }
 .hallow:hover{
-background-image: url(/images/BlackHallowGhost.png);
+background-image: url(../images/BlackHallowGhost.png);
 }
