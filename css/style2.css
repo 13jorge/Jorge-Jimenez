@@ -1,4 +1,9 @@
 body{
   background-image: url(/images/Ghostr.jpg);
   background-size: cover;
+  text-align: center;
+}
+h1{
+  color: white;
+  font-size: 100pt;
 }

@@ -4,9 +4,11 @@ body{
 }
 h1{
   color: darkblue;
+  font-size: 40pt;
 }
 h4{
   color: orange;
+  font-size: 20pt;
 }
 
 .ghost{
@@ -24,7 +26,7 @@ background-image: url(/images/CreepyWingGhost.png);
 .float{
   background-image: url(/images/FloatingGhost.png);
   background-size: cover;
-  position: absolute;
+
   width: 400px;
   height: 400px;
   margin-left: 35%;
